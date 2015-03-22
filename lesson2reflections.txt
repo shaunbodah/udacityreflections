@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Initializing a repository creates the .git object which houses the Git metadata and is required to start tracking file changes.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area gives me an intermediary spot to place files and inspect them prior to pushing them into a repository with the commit.
