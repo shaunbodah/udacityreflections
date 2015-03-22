@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository creates the .git object which houses the Git metadata and is required to start tracking file changes.
+

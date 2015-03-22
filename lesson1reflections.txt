@@ -1,0 +1,24 @@
+Reflections
+
+How did viewing a diff between two versions help you spot the bug?
+Diff was able to easily call my attention directly to the changes between the versions showing me the old code compared to the new code. This could be helpful in isolating eliminating bugs.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I see this being very useful when reviewing a project to see what steps I took along the way.  When possible, I might be able to see unnecessary steps or redundancies that can be eliminated.  Having the entire history allows me to remove some code and test it safely knowing I can restore the code if it fails.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Manual commits allow me to choose logical times to push the version and give me the ability to add some context about what was changed.  This will be very useful when reviewing and using versions in the future.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I'm sure this difference comes from the logical purpose for which each platform was intended.  Google Docs was designed initially to house office docs like word and excel which typically are not dependent on relationships to other files, whereas Git seems to have been constructed with software coding in mind, so it makes sense to have multiple files linked when they are related to one another.
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that I can easily step back through and restore prior versions gives me the confidence to make experimental changes without fear of breaking the program since it will be possible to undo the damage.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+At this point I am most interested in just getting Git to work properly so I can run version control on some apps I want to start building.
